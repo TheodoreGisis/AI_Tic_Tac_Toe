@@ -1,3 +1,3 @@
 # AI_Tic_Tac_Toe
 
-# What is MiniMax algorithm
+## What is MiniMax algorithm
