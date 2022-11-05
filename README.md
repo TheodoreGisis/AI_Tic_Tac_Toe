@@ -9,3 +9,4 @@ The algorithm search, recursively, the best move that leads the Max player to wi
 
 ## How to play
 
+TicTacToeAI.PY file is the one that you need to run, if you want to start the game.The rules of the game are simple, you are playing against the computer.Your letter is 'O' and computer's letter is 'X'.Be cereafule because you are playing against an AI robot.
