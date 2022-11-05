@@ -1,7 +1,7 @@
 # AI_Tic_Tac_Toe
 
 ## Description 
-
+This is a simple Tic-Tac-Toe game created in Python.But is it so simple as it looks?To be honest this is a Tic-Tac-Toe game using Artificial Intelligence and to be more specific we used the MiniMax algorithm.
 
 ## What is MiniMax algorithm?
 
